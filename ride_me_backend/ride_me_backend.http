@@ -1,6 +1,0 @@
-@ride_me_backend_HostAddress = http://localhost:5108
-
-GET {{ride_me_backend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

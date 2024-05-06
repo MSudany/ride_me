@@ -1,4 +1,4 @@
-namespace ride_me_backend;
+namespace ride_on_backend;
 
 public class WeatherForecast
 {
